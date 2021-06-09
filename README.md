@@ -70,8 +70,7 @@ Discuss how price can contribute to neighborhood
 Factors that influence prices
 Applied certain data engineering (Clearning and Wranggling) techniques
 Best methods of handled missing data and impute them if required where ever necassary
-Handling Outliers 
-NLP
+
 
 
 Acknowledgements
